@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_I1dxke96EeWT_LLvTvKRHw" label="test2Git" description="" language="java" technicalLabel="TEST2GIT" creationDate="2016-03-21T11:28:39.901-0400" author="_I1dxku96EeWT_LLvTvKRHw" productVersion="Talend Studio for Cloud with Real-time Big Data-6.1.1.20151214_1327" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/Jemleweb/repotis.git&quot;,&quot;login&quot;:&quot;Jemleweb&quot;,&quot;passwd&quot;:&quot;S8AV6IZnVJfA6uJ80GN3Kg==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI"/>
+  <TalendProperties:User xmi:id="_I1dxku96EeWT_LLvTvKRHw" login="admin@company.com" firstName="admin" lastName="admin" type="DQ"/>
+</xmi:XMI>
